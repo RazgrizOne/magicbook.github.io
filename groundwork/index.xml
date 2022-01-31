@@ -5,25 +5,24 @@
     <link>//magicbook.wiki/groundwork/</link>
     <description>Recent content in Groundworks on Magic Book</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="//magicbook.wiki/groundwork/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="//magicbook.wiki/groundwork/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>This is a Title</title>
-      <link>//magicbook.wiki/groundwork/chromebook_linux/</link>
-      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>//magicbook.wiki/groundwork/chromebook_linux/</guid>
-      <description>Above, you can see the folder, Title, Author and Date. Below you can see both a pasted image, and a youtube video. I am able to have my notes translated to something that is comaptible with Hugo.
- This does not use the same technique as I did, but it seems to work. He does not note the screw inside of the device, so perhaps I will need to find a video that goes over that.</description>
-    </item>
-    
-    <item>
-      <title>Anaconda</title>
+      <title></title>
       <link>//magicbook.wiki/groundwork/anaconda/</link>
-      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//magicbook.wiki/groundwork/anaconda/</guid>
       <description>Anaconda Anaconda will be useful for maintaining a clean environment for python programming.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/groundwork/chromebook_linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/groundwork/chromebook_linux/</guid>
+      <description>GalliumOS Unscrew safety screw, load new firmware, install gallium Have to find the guide again and go through it from square one.
+ This does not use the same technique as I did, but it seems to work. He does not note the screw inside of the device, so perhaps I will need to find a video that goes over that. </description>
     </item>
     
     <item>

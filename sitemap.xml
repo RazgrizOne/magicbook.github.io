@@ -2,19 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//magicbook.wiki/groundwork/</loc>
-    <lastmod>2022-01-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//magicbook.wiki/</loc>
-    <lastmod>2022-01-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//magicbook.wiki/groundwork/chromebook_linux/</loc>
-    <lastmod>2022-01-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//magicbook.wiki/groundwork/anaconda/</loc>
-    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+    <loc>//magicbook.wiki/a-home/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>//magicbook.wiki/bsd/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>//magicbook.wiki/cubic-for-linux/</loc>
     <priority>0</priority>
   </url><url>
     <loc>//magicbook.wiki/essay_complexity/</loc>
@@ -22,6 +16,16 @@
   </url><url>
     <loc>//magicbook.wiki/essays/</loc>
     <priority>0</priority>
+  </url><url>
+    <loc>//magicbook.wiki/getting-html-to-load-on-hugo/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>//magicbook.wiki/getting-images-and-files-to-load-on-hugo/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>//magicbook.wiki/groundwork/anaconda/</loc>
+  </url><url>
+    <loc>//magicbook.wiki/groundwork/chromebook_linux/</loc>
   </url><url>
     <loc>//magicbook.wiki/groundwork/hugo/</loc>
   </url><url>
@@ -57,7 +61,11 @@
   </url><url>
     <loc>//magicbook.wiki/categories/</loc>
   </url><url>
+    <loc>//magicbook.wiki/groundwork/</loc>
+  </url><url>
     <loc>//magicbook.wiki/obsidian-export/</loc>
+  </url><url>
+    <loc>//magicbook.wiki/</loc>
   </url><url>
     <loc>//magicbook.wiki/tags/</loc>
   </url>

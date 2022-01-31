@@ -5,25 +5,16 @@
     <link>//magicbook.wiki/</link>
     <description>Recent content on Magic Book</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="//magicbook.wiki/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="//magicbook.wiki/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>This is a Title</title>
-      <link>//magicbook.wiki/groundwork/chromebook_linux/</link>
-      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>//magicbook.wiki/a-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//magicbook.wiki/groundwork/chromebook_linux/</guid>
-      <description>Above, you can see the folder, Title, Author and Date. Below you can see both a pasted image, and a youtube video. I am able to have my notes translated to something that is comaptible with Hugo.
- This does not use the same technique as I did, but it seems to work. He does not note the screw inside of the device, so perhaps I will need to find a video that goes over that.</description>
-    </item>
-    
-    <item>
-      <title>Anaconda</title>
-      <link>//magicbook.wiki/groundwork/anaconda/</link>
-      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>//magicbook.wiki/groundwork/anaconda/</guid>
-      <description>Anaconda Anaconda will be useful for maintaining a clean environment for python programming.</description>
+      <guid>//magicbook.wiki/a-home/</guid>
+      <description>These are the things I am currently trying to work on. I should try to stay somewhat focused. I watched an interesting video by Bobby Brocolli that went over how to make videos using google earth like another yotuber who uses it for sports videos.
+-I should use the database features to create a page that stores all the current goals I have.
+ Family Network Project  Note Taking  Chromebook_Linux Obsidian  Website  obsidian-export Hugo Getting html to load on hugo getting images and files to load on hugo    Essays  Essay_Complexity</description>
     </item>
     
     <item>
@@ -33,6 +24,16 @@
       
       <guid>//magicbook.wiki/bsd/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/cubic-for-linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/cubic-for-linux/</guid>
+      <description>Some text is required for the page to be viewed as a markdown page
+ </description>
     </item>
     
     <item>
@@ -54,6 +55,50 @@ The future promised more&amp;hellip; More knowledge, more tools, more freedom of
       <description>What Ideas do I have for Essays I could write?
 Essay_Complexity
 The nightmare of complexity</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/getting-html-to-load-on-hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/getting-html-to-load-on-hugo/</guid>
+      <description>html will not load unless the following is added to Hugo
+Apr 2, 2021
+Render raw html in HUGO markdown files By default Hugo will not render embedded html in markdown files. To enable, add the following lines to config.toml:
+[markup.goldmark.renderer] unsafe = true Entering the raw html:
+&amp;lt;h1&amp;gt;hello world!&amp;lt;/h1&amp;gt; Renders:
+hello world! Source: https://jasonmurray.org/posts/2021/hugohtml/</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/getting-images-and-files-to-load-on-hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/getting-images-and-files-to-load-on-hugo/</guid>
+      <description>Relative links with Hugo The Hugo static site generator does not support relative links to files. Instead, it expects you to link to other pages using the [ref and relref shortcodes].
+As a result of this, notes that have been exported from Obsidian using obsidian-export do not work out of the box because Hugo doesn&amp;rsquo;t resolve these links correctly.
+Markdown Render Hooks (only supported using the default goldmark renderer) allow you to work around this issue however, making exported notes work with Hugo after a bit of one-time setup work.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/groundwork/anaconda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/groundwork/anaconda/</guid>
+      <description>Anaconda Anaconda will be useful for maintaining a clean environment for python programming.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/groundwork/chromebook_linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/groundwork/chromebook_linux/</guid>
+      <description>GalliumOS Unscrew safety screw, load new firmware, install gallium Have to find the guide again and go through it from square one.
+ This does not use the same technique as I did, but it seems to work. He does not note the screw inside of the device, so perhaps I will need to find a video that goes over that. </description>
     </item>
     
     <item>
@@ -135,7 +180,8 @@ Some projects for the raspberry pi Pico. Wii remote like mouse. rubber ducky Pic
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//magicbook.wiki/linux/</guid>
-      <description>for creating linux isos
+      <description>Cubic for Linux,
+for creating linux isos
 could boot up your own computer from a flash drive
 https://www.linuxfromscratch.org/index.html this looks like it will be very useful. Page 57 so far, but I will have to go back and read a lot for sure and take notes. Perhaps I should download it on to my tablet and draw on it.</description>
     </item>
