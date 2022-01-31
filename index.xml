@@ -13,7 +13,7 @@
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>//magicbook.wiki/a-home/</guid>
-      <description>The Magic Book
+      <description>Magic Book
 These are the things I am currently trying to work on. I should try to stay somewhat focused. I watched an interesting video by Bobby Brocolli that went over how to make videos using google earth like another yotuber who uses it for sports videos.
 -I should use the database features to create a page that stores all the current goals I have.
  Family Network Project  Note Taking  Chromebook_Linux Obsidian  Website  obsidian-export Hugo Getting html to load on hugo getting images and files to load on hugo    Essays  Essay_Complexity</description>
@@ -28,6 +28,16 @@ These are the things I am currently trying to work on. I should try to stay some
       <description>Relative links with Hugo The Hugo static site generator does not support relative links to files. Instead, it expects you to link to other pages using the [ref and relref shortcodes].
 As a result of this, notes that have been exported from Obsidian using obsidian-export do not work out of the box because Hugo doesn&amp;rsquo;t resolve these links correctly.
 Markdown Render Hooks (only supported using the default goldmark renderer) allow you to work around this issue however, making exported notes work with Hugo after a bit of one-time setup work.</description>
+    </item>
+    
+    <item>
+      <title>What is the magic book?</title>
+      <link>//magicbook.wiki/magic-book/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/magic-book/</guid>
+      <description>As magical as the world may be, at some point I am going to have to get technical if I wish to communicate anything of use to you. I have created this site as a way of instantly converting my personal notes into a website which can easily be reached by anyone. The vast majority of resources in the world have one goal.
+To extract as much value from you as possible.</description>
     </item>
     
     <item>
