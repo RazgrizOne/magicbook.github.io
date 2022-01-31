@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Magic Book</title>
-    <link>https://razgrizone.github.io/magicbook.github.io/categories/</link>
+    <link>//razgrizone.github.io/magicbook.github.io/categories/</link>
     <description>Recent content in Categories on Magic Book</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://razgrizone.github.io/magicbook.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="//razgrizone.github.io/magicbook.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
