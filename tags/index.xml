@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Magic Book</title>
-    <link>//razgrizone.github.io/magicbook.github.io/tags/</link>
+    <link>//magicbook.wiki/tags/</link>
     <description>Recent content in Tags on Magic Book</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="//razgrizone.github.io/magicbook.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="//magicbook.wiki/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
