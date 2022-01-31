@@ -8,30 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="//magicbook.wiki/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome to Magic Book</title>
-      <link>//magicbook.wiki/index.html</link>
-      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>//magicbook.wiki/index.html</guid>
-      <description>Hello! Come in! Come in!
-It is great to have you here at the gates of my personal journal. A book that if burned, can be regenerated an infinite number of times with pages that can be viewed from anywhere in the world.
-A &amp;lsquo;magic book&amp;rsquo; you might say.
-Now that might sound grandiose. &amp;ldquo;Magic!? This is technology don&amp;rsquo;t be silly.&amp;rdquo; I assure you that it would have seemed like magic to the poor scribes of ancient china in 868 AD.</description>
-    </item>
-    
-    <item>
-      <title>Welcome to Magic Book</title>
-      <link>//magicbook.wiki/index.md/</link>
-      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>//magicbook.wiki/index.md/</guid>
-      <description>Hello! Come in! Come in!
-It is great to have you here at the gates of my personal journal. A book that if burned, can be regenerated an infinite number of times with pages that can be viewed from anywhere in the world.
-A &amp;lsquo;magic book&amp;rsquo; you might say.
-Now that might sound grandiose. &amp;ldquo;Magic!? This is technology don&amp;rsquo;t be silly.&amp;rdquo; I assure you that it would have seemed like magic to the poor scribes of ancient china in 868 AD.</description>
-    </item>
-    
-    <item>
       <title>What is the magic book?</title>
       <link>//magicbook.wiki/a-home/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
@@ -170,15 +146,6 @@ In my case I used the command xfce4-screenshooter -c -r</description>
     
     <item>
       <title></title>
-      <link>//magicbook.wiki/groundwork/untitled/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//magicbook.wiki/groundwork/untitled/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>//magicbook.wiki/groundwork/website/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -227,24 +194,6 @@ https://www.linuxfromscratch.org/index.html this looks like it will be very usef
       
       <guid>//magicbook.wiki/people-in-tech/</guid>
       <description>Benno Rice - Experienced Engineer, Gives talks. Opinions about OS Lennart Poettering - creator of systemd, works at redhat</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>//magicbook.wiki/untitled-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//magicbook.wiki/untitled-1/</guid>
-      <description>dataview TABLE file.name AS &amp;quot;File&amp;quot;, rating AS &amp;quot;Rating&amp;quot; FROM #book</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>//magicbook.wiki/untitled/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//magicbook.wiki/untitled/</guid>
-      <description></description>
     </item>
     
     <item>
