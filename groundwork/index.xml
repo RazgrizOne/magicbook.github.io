@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Groundworks on Magic Book</title>
     <link>//magicbook.wiki/groundwork/</link>
     <description>Recent content in Groundworks on Magic Book</description>
+    <image>
+      <url>//magicbook.wiki/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//magicbook.wiki/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="//magicbook.wiki/groundwork/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anaconda</title>
@@ -23,7 +26,7 @@
       
       <guid>//magicbook.wiki/groundwork/chromebook_linux/</guid>
       <description>GalliumOS Unscrew safety screw, load new firmware, install gallium Have to find the guide again and go through it from square one.
- This does not use the same technique as I did, but it seems to work. He does not note the screw inside of the device, so perhaps I will need to find a video that goes over that. </description>
+ This does not use the same technique as I did, but it seems to work. He does not note the screw inside of the device, so perhaps I will need to find a video that goes over that.</description>
     </item>
     
     <item>
