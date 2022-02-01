@@ -2,13 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//magicbook.wiki/</loc>
-    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//magicbook.wiki/a-home/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//magicbook.wiki/groundwork/anaconda/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//magicbook.wiki/bsd/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//magicbook.wiki/cubic-for-linux/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//magicbook.wiki/essay_complexity/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//magicbook.wiki/groundwork/chromebook_linux/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//magicbook.wiki/groundwork/screenshot-settings/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//magicbook.wiki/getting-images-and-files-to-load-on-hugo/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//magicbook.wiki/getting-html-to-load-on-hugo/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//magicbook.wiki/groundwork/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//magicbook.wiki/history-of-computers/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//magicbook.wiki/groundwork/hugo/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//magicbook.wiki/people-in-tech/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//magicbook.wiki/latex/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//magicbook.wiki/linux/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//magicbook.wiki/essays/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//magicbook.wiki/obsidian-export/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//magicbook.wiki/1-1-rotations/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//magicbook.wiki/schr%C3%B6dingers-cat/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//magicbook.wiki/dataview-file/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//magicbook.wiki/first-chapter/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//magicbook.wiki/groundwork/website/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//magicbook.wiki/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//magicbook.wiki/magic-book/</loc>
@@ -17,54 +77,16 @@
     <loc>//magicbook.wiki/the-magic-book/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//magicbook.wiki/bsd/</loc>
+    <loc>//magicbook.wiki/1-2-complexity-and-utility/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>//magicbook.wiki/cubic-for-linux/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>//magicbook.wiki/dataview-file/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>//magicbook.wiki/essay_complexity/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>//magicbook.wiki/essays/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>//magicbook.wiki/getting-html-to-load-on-hugo/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>//magicbook.wiki/groundwork/anaconda/</loc>
-  </url><url>
-    <loc>//magicbook.wiki/groundwork/chromebook_linux/</loc>
-  </url><url>
-    <loc>//magicbook.wiki/groundwork/hugo/</loc>
-  </url><url>
-    <loc>//magicbook.wiki/groundwork/screenshot-settings/</loc>
-  </url><url>
-    <loc>//magicbook.wiki/groundwork/website/</loc>
-  </url><url>
-    <loc>//magicbook.wiki/history-of-computers/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>//magicbook.wiki/latex/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>//magicbook.wiki/linux/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>//magicbook.wiki/people-in-tech/</loc>
+    <loc>//magicbook.wiki/puzzle-box/</loc>
     <priority>0</priority>
   </url><url>
     <loc>//magicbook.wiki/ys/</loc>
     <priority>0</priority>
   </url><url>
     <loc>//magicbook.wiki/categories/</loc>
-  </url><url>
-    <loc>//magicbook.wiki/groundwork/</loc>
-  </url><url>
-    <loc>//magicbook.wiki/obsidian-export/</loc>
   </url><url>
     <loc>//magicbook.wiki/tags/</loc>
   </url>

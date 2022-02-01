@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="//magicbook.wiki/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>What is the magic book?</title>
+      <title>A-Home</title>
       <link>//magicbook.wiki/a-home/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       
@@ -20,7 +20,67 @@ These are the things I am currently trying to work on. I should try to stay some
     </item>
     
     <item>
-      <title>What is the magic book?</title>
+      <title>Anaconda</title>
+      <link>//magicbook.wiki/groundwork/anaconda/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/groundwork/anaconda/</guid>
+      <description>Anaconda Anaconda will be useful for maintaining a clean environment for python programming.</description>
+    </item>
+    
+    <item>
+      <title>BSD</title>
+      <link>//magicbook.wiki/bsd/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/bsd/</guid>
+      <description>writing something just to ensure this is working</description>
+    </item>
+    
+    <item>
+      <title>Cubic distro builder</title>
+      <link>//magicbook.wiki/cubic-for-linux/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/cubic-for-linux/</guid>
+      <description>Some text is required for the page to be viewed as a markdown page
+ </description>
+    </item>
+    
+    <item>
+      <title>Essay on Complexity</title>
+      <link>//magicbook.wiki/essay_complexity/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/essay_complexity/</guid>
+      <description>I am unable to move.
+The future promised more&amp;hellip; More knowledge, more tools, more freedom of expression, more possibilities. The truth is though, as time has moved forward I have only felt the possibility shrinking. Our collective future compressing into a single point that is the future. Perhaps this is always how aging feels. A feeling of fewer possbilities from a horizon that is much closer than you thought it was at first glance, but I am not so certain that this feeling comes from the same aging people before us experienced.</description>
+    </item>
+    
+    <item>
+      <title>GalliumOS</title>
+      <link>//magicbook.wiki/groundwork/chromebook_linux/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/groundwork/chromebook_linux/</guid>
+      <description>GalliumOS Unscrew safety screw, load new firmware, install gallium Have to find the guide again and go through it from square one.
+ This does not use the same technique as I did, but it seems to work. He does not note the screw inside of the device, so perhaps I will need to find a video that goes over that. </description>
+    </item>
+    
+    <item>
+      <title>GalliumOS Screenshot settings</title>
+      <link>//magicbook.wiki/groundwork/screenshot-settings/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/groundwork/screenshot-settings/</guid>
+      <description>*GalliumOS *uses xfce4 which is a Linux desktop environment.
+xfce4 uses something called xfce screenshooter which is the built in screenshot application. (it may actually be seperate but it comes with GalliumOS)
+You can go to keyboard settings in GalliumOS and change the command that is run to screenshot a selection instead of the entire screen.
+In my case I used the command xfce4-screenshooter -c -r</description>
+    </item>
+    
+    <item>
+      <title>Getting Images and files to load on hugo</title>
       <link>//magicbook.wiki/getting-images-and-files-to-load-on-hugo/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       
@@ -28,6 +88,143 @@ These are the things I am currently trying to work on. I should try to stay some
       <description>Relative links with Hugo The Hugo static site generator does not support relative links to files. Instead, it expects you to link to other pages using the [ref and relref shortcodes].
 As a result of this, notes that have been exported from Obsidian using obsidian-export do not work out of the box because Hugo doesn&amp;rsquo;t resolve these links correctly.
 Markdown Render Hooks (only supported using the default goldmark renderer) allow you to work around this issue however, making exported notes work with Hugo after a bit of one-time setup work.</description>
+    </item>
+    
+    <item>
+      <title>Gettint HTML to lad on hugo</title>
+      <link>//magicbook.wiki/getting-html-to-load-on-hugo/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/getting-html-to-load-on-hugo/</guid>
+      <description>html will not load unless the following is added to Hugo
+Apr 2, 2021
+Render raw html in HUGO markdown files By default Hugo will not render embedded html in markdown files. To enable, add the following lines to config.toml:
+[markup.goldmark.renderer] unsafe = true Entering the raw html:
+&amp;lt;h1&amp;gt;hello world!&amp;lt;/h1&amp;gt; Renders:
+hello world! Source: https://jasonmurray.org/posts/2021/hugohtml/</description>
+    </item>
+    
+    <item>
+      <title>History of Operating Systems</title>
+      <link>//magicbook.wiki/history-of-computers/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/history-of-computers/</guid>
+      <description>Operating systems Unix Linux BSD MacOS WIndows
+Hardware Rasberry pi Rasberry pi Pico Arduino Chromebooks
+Some projects for the raspberry pi Pico. Wii remote like mouse. rubber ducky Pico</description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>//magicbook.wiki/groundwork/hugo/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/groundwork/hugo/</guid>
+      <description>Basic commands with HUGO
+ideally I need to figure out how to add items to the PATH</description>
+    </item>
+    
+    <item>
+      <title>Important people in tech</title>
+      <link>//magicbook.wiki/people-in-tech/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/people-in-tech/</guid>
+      <description>Benno Rice - Experienced Engineer, Gives talks. Opinions about OS Lennart Poettering - creator of systemd, works at redhat</description>
+    </item>
+    
+    <item>
+      <title>Latex Writitng Software</title>
+      <link>//magicbook.wiki/latex/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/latex/</guid>
+      <description>Supposedly this allows you to create templates for writing a book. Should take a look at it later.</description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>//magicbook.wiki/linux/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/linux/</guid>
+      <description>Cubic for Linux,
+for creating linux isos
+could boot up your own computer from a flash drive
+https://www.linuxfromscratch.org/index.html this looks like it will be very useful. Page 57 so far, but I will have to go back and read a lot for sure and take notes. Perhaps I should download it on to my tablet and draw on it.</description>
+    </item>
+    
+    <item>
+      <title>List of Essays</title>
+      <link>//magicbook.wiki/essays/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/essays/</guid>
+      <description>What Ideas do I have for Essays I could write?
+Essay_Complexity
+The nightmare of complexity</description>
+    </item>
+    
+    <item>
+      <title>Obsidian-Export</title>
+      <link>//magicbook.wiki/obsidian-export/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/obsidian-export/</guid>
+      <description>obsidian-export This tool is used to convert obsidian notes into a structure that can be used by Hugo.
+//I should write out instructions on how to use it here
+I was able to convert my notes into something that can be used by hugo, but images did not work. the link used has two dots. If I change it to one dot does it work?
+I also need to create front matter in my pages so things like title and author show.</description>
+    </item>
+    
+    <item>
+      <title>Rotations</title>
+      <link>//magicbook.wiki/1-1-rotations/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/1-1-rotations/</guid>
+      <description>Rotations I have spent most of my life trying to curate something I will call a rotation. This concept comes from the games I played as a child. In these games you were wizards and warriors, rogues and witch doctors, Knights and Healers. Each one of these had a set of tools that was good for handling different situations. They complimented and countered each other.
+As you played the game, you would collect different spells, attacks, and support skills.</description>
+    </item>
+    
+    <item>
+      <title>Schrödinger&#39;s cat</title>
+      <link>//magicbook.wiki/schr%C3%B6dingers-cat/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/schr%C3%B6dingers-cat/</guid>
+      <description>This one is complicated. I think this will be much higher level. To explain it truly well I pretty much have to learn quantum physics.
+ </description>
+    </item>
+    
+    <item>
+      <title>Testing Data View</title>
+      <link>//magicbook.wiki/dataview-file/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/dataview-file/</guid>
+      <description>TABLE file.name AS &amp;quot;File&amp;quot;, rating AS &amp;quot;Rating&amp;quot; FROM #book </description>
+    </item>
+    
+    <item>
+      <title>The First Chapter</title>
+      <link>//magicbook.wiki/first-chapter/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/first-chapter/</guid>
+      <description>I could write a million different books on every subject. I could write a giant book on math and science. Perhaps one on statistics (though I probably will write something on statistics). I could dig deep and learn hardware in order to bring you an expert education on building computers from scratch. This all seems like the wrong approach though. There are people out there who do this better than I, and perhaps more than anything the best thing I can do is point you in their direction, but I think I can do one better than that.</description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>//magicbook.wiki/groundwork/website/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/groundwork/website/</guid>
+      <description>Need to find a website that can be generated by markdown documents like obsidian and can do links like obsidian. I found something before, but I will need to dig around and try to find it again.
+I want a very fast way to generate webpages without having to try too hard. If I can generate traffic, perhaps I will be able to do something with that traffic.
+3m ago</description>
     </item>
     
     <item>
@@ -52,158 +249,21 @@ To extract as much value from you as possible.</description>
     
     <item>
       <title></title>
-      <link>//magicbook.wiki/bsd/</link>
+      <link>//magicbook.wiki/1-2-complexity-and-utility/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//magicbook.wiki/bsd/</guid>
-      <description>writing something just to ensure this is working</description>
+      <guid>//magicbook.wiki/1-2-complexity-and-utility/</guid>
+      <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>//magicbook.wiki/cubic-for-linux/</link>
+      <link>//magicbook.wiki/puzzle-box/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//magicbook.wiki/cubic-for-linux/</guid>
-      <description>Some text is required for the page to be viewed as a markdown page
- </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>//magicbook.wiki/dataview-file/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//magicbook.wiki/dataview-file/</guid>
-      <description>dataview TABLE file.name AS &amp;quot;File&amp;quot;, rating AS &amp;quot;Rating&amp;quot; FROM #book</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>//magicbook.wiki/essay_complexity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//magicbook.wiki/essay_complexity/</guid>
-      <description>I am unable to move.
-The future promised more&amp;hellip; More knowledge, more tools, more freedom of expression, more possibilities. The truth is though, as time has moved forward I have only felt the possibility shrinking. Our collective future compressing into a single point that is the future. Perhaps this is always how aging feels. A feeling of fewer possbilities from a horizon that is much closer than you thought it was at first glance, but I am not so certain that this feeling comes from the same aging people before us experienced.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>//magicbook.wiki/essays/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//magicbook.wiki/essays/</guid>
-      <description>What Ideas do I have for Essays I could write?
-Essay_Complexity
-The nightmare of complexity</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>//magicbook.wiki/getting-html-to-load-on-hugo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//magicbook.wiki/getting-html-to-load-on-hugo/</guid>
-      <description>html will not load unless the following is added to Hugo
-Apr 2, 2021
-Render raw html in HUGO markdown files By default Hugo will not render embedded html in markdown files. To enable, add the following lines to config.toml:
-[markup.goldmark.renderer] unsafe = true Entering the raw html:
-&amp;lt;h1&amp;gt;hello world!&amp;lt;/h1&amp;gt; Renders:
-hello world! Source: https://jasonmurray.org/posts/2021/hugohtml/</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>//magicbook.wiki/groundwork/anaconda/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//magicbook.wiki/groundwork/anaconda/</guid>
-      <description>Anaconda Anaconda will be useful for maintaining a clean environment for python programming.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>//magicbook.wiki/groundwork/chromebook_linux/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//magicbook.wiki/groundwork/chromebook_linux/</guid>
-      <description>GalliumOS Unscrew safety screw, load new firmware, install gallium Have to find the guide again and go through it from square one.
- This does not use the same technique as I did, but it seems to work. He does not note the screw inside of the device, so perhaps I will need to find a video that goes over that. </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>//magicbook.wiki/groundwork/hugo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//magicbook.wiki/groundwork/hugo/</guid>
-      <description>Basic commands with HUGO
-ideally I need to figure out how to add items to the PATH</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>//magicbook.wiki/groundwork/screenshot-settings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//magicbook.wiki/groundwork/screenshot-settings/</guid>
-      <description>*GalliumOS *uses xfce4 which is a Linux desktop environment.
-xfce4 uses something called xfce screenshooter which is the built in screenshot application. (it may actually be seperate but it comes with GalliumOS)
-You can go to keyboard settings in GalliumOS and change the command that is run to screenshot a selection instead of the entire screen.
-In my case I used the command xfce4-screenshooter -c -r</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>//magicbook.wiki/groundwork/website/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//magicbook.wiki/groundwork/website/</guid>
-      <description>Need to find a website that can be generated by markdown documents like obsidian and can do links like obsidian. I found something before, but I will need to dig around and try to find it again.
-I want a very fast way to generate webpages without having to try too hard. If I can generate traffic, perhaps I will be able to do something with that traffic.
-3m ago</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>//magicbook.wiki/history-of-computers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//magicbook.wiki/history-of-computers/</guid>
-      <description>Operating systems Unix Linux BSD MacOS WIndows
-Hardware Rasberry pi Rasberry pi Pico Arduino Chromebooks
-Some projects for the raspberry pi Pico. Wii remote like mouse. rubber ducky Pico</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>//magicbook.wiki/latex/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//magicbook.wiki/latex/</guid>
-      <description>Supposedly this allows you to create templates for writing a book. Should take a look at it later.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>//magicbook.wiki/linux/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//magicbook.wiki/linux/</guid>
-      <description>Cubic for Linux,
-for creating linux isos
-could boot up your own computer from a flash drive
-https://www.linuxfromscratch.org/index.html this looks like it will be very useful. Page 57 so far, but I will have to go back and read a lot for sure and take notes. Perhaps I should download it on to my tablet and draw on it.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>//magicbook.wiki/people-in-tech/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//magicbook.wiki/people-in-tech/</guid>
-      <description>Benno Rice - Experienced Engineer, Gives talks. Opinions about OS Lennart Poettering - creator of systemd, works at redhat</description>
+      <guid>//magicbook.wiki/puzzle-box/</guid>
+      <description>You will know soon enough.
+Patience.</description>
     </item>
     
     <item>
@@ -213,18 +273,6 @@ https://www.linuxfromscratch.org/index.html this looks like it will be very usef
       
       <guid>//magicbook.wiki/ys/</guid>
       <description>not sure what this is</description>
-    </item>
-    
-    <item>
-      <title>hello</title>
-      <link>//magicbook.wiki/obsidian-export/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//magicbook.wiki/obsidian-export/</guid>
-      <description>obsidian-export This tool is used to convert obsidian notes into a structure that can be used by Hugo.
-//I should write out instructions on how to use it here
-I was able to convert my notes into something that can be used by hugo, but images did not work. the link used has two dots. If I change it to one dot does it work?
-I also need to create front matter in my pages so things like title and author show.</description>
     </item>
     
   </channel>
