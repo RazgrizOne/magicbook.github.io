@@ -80,7 +80,13 @@
     <loc>//magicbook.wiki/1-2-complexity-and-utility/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>//magicbook.wiki/markdown/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>//magicbook.wiki/puzzle-box/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>//magicbook.wiki/this-link-creates-a-new-page-just-by-typing-it/</loc>
     <priority>0</priority>
   </url><url>
     <loc>//magicbook.wiki/ys/</loc>

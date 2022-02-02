@@ -67,7 +67,8 @@ The future promised more&amp;hellip; More knowledge, more tools, more freedom of
       
       <guid>//magicbook.wiki/groundwork/chromebook_linux/</guid>
       <description>GalliumOS Unscrew safety screw, load new firmware, install gallium Have to find the guide again and go through it from square one.
- This does not use the same technique as I did, but it seems to work. He does not note the screw inside of the device, so perhaps I will need to find a video that goes over that.</description>
+Above I have pasted a image, Below I have pasted a iFrame of a youtube video. The automatically move over to the website. THis link creates a new page just by typing it and if I change the name later it will change everywhere it is referenced.
+ This does not use the same technique as I did, but it seems to work.</description>
     </item>
     
     <item>
@@ -261,12 +262,32 @@ To extract as much value from you as possible.</description>
     
     <item>
       <title></title>
+      <link>//magicbook.wiki/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/markdown/</guid>
+      <description>https://commonmark.org/help/
+Heading
+ markdown list 1  nested list 1 nested list 2   markdown list 2  Want to ruin the surprise? Well, you asked for it!  </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>//magicbook.wiki/puzzle-box/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//magicbook.wiki/puzzle-box/</guid>
       <description>You will know soon enough.
 Patience.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/this-link-creates-a-new-page-just-by-typing-it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/this-link-creates-a-new-page-just-by-typing-it/</guid>
+      <description></description>
     </item>
     
     <item>
