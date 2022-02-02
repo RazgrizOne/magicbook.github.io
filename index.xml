@@ -19,7 +19,7 @@
       <description>Magic Book
 These are the things I am currently trying to work on. I should try to stay somewhat focused. I watched an interesting video by Bobby Brocolli that went over how to make videos using google earth like another yotuber who uses it for sports videos.
 -I should use the database features to create a page that stores all the current goals I have.
- Family Network Project  Note Taking  Chromebook_Linux Obsidian  Website  obsidian-export Hugo Getting html to load on hugo getting images and files to load on hugo    Essays  Essay_Complexity</description>
+ Family Network Project  Note Taking  Chromebook_Linux Obsidian  Website  obsidian-export Hugo Getting html to load on hugo getting images and files to load on hugo cookies    Essays  Essay_Complexity</description>
     </item>
     
     <item>
@@ -261,13 +261,26 @@ To extract as much value from you as possible.</description>
     
     <item>
       <title></title>
+      <link>//magicbook.wiki/cookies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/cookies/</guid>
+      <description>https://html.com/resources/cookies-ultimate-guide/
+I will likely need to use cookies to &amp;lsquo;save the players game
+This goes over the more technical aspects. https://www.section.io/engineering-education/understanding-and-working-with-javascript-cookies/#various-types-of-cookies
+Understanding and Working with JavaScript Cookies Bernard Mburu August 6, 2021 A cookie is a short text file that stores some data on a computer (about 4KB). They usually keep track of information such as preferencess for a website, prompting the user to improve the web page the next time they visit.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>//magicbook.wiki/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//magicbook.wiki/markdown/</guid>
       <description>https://commonmark.org/help/
 Heading
- markdown list 1  nested list 1 nested list 2   markdown list 2   Want to ruin the surprise? Well, you asked for it!  function fancyAlert(arg) { if(arg) { $.facebox({div:&amp;#39;#foo&amp;#39;}) } } testing  #tags, links, formatting supported list syntax required (any unordered or ordered list supported) this is a complete item [?] this is also a complete item (works with every character) this is an incomplete item tasks can be clicked in Preview to be checked off     First Header Second Header     Content from cell 1 Content from cell 2   Content in the first column Content in the second column    ==highlight==</description>
+ markdown list 1  nested list 1 nested list 2   markdown list 2  This is what highlighting looks like.
+ Want to ruin the surprise? Well, you asked for it!  function fancyAlert(arg) { if(arg) { $.facebox({div:&amp;#39;#foo&amp;#39;}) } } testing  #tags, links, formatting supported list syntax required (any unordered or ordered list supported) this is a complete item [?] this is also a complete item (works with every character) this is an incomplete item tasks can be clicked in Preview to be checked off     First Header Second Header     Content from cell 1 Content from cell 2   Content in the first column Content in the second column    ==highlight==</description>
     </item>
     
     <item>
