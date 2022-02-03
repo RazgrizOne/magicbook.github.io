@@ -86,6 +86,9 @@
     <loc>//magicbook.wiki/markdown/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>//magicbook.wiki/new-page-that-did-not-exist/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>//magicbook.wiki/puzzle-box/</loc>
     <priority>0</priority>
   </url><url>

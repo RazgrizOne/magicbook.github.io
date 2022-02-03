@@ -28,7 +28,9 @@ These are the things I am currently trying to work on. I should try to stay some
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>//magicbook.wiki/groundwork/anaconda/</guid>
-      <description>Anaconda Anaconda will be useful for maintaining a clean environment for python programming.</description>
+      <description>Anaconda Anaconda will be useful for maintaining a clean environment for python programming.
+some new words
+new page that did not exist</description>
     </item>
     
     <item>
@@ -281,6 +283,15 @@ Understanding and Working with JavaScript Cookies Bernard Mburu August 6, 2021 A
 Heading
  markdown list 1  nested list 1 nested list 2   markdown list 2  This is what highlighting looks like.
  Want to ruin the surprise? Well, you asked for it!  function fancyAlert(arg) { if(arg) { $.facebox({div:&amp;#39;#foo&amp;#39;}) } } testing  #tags, links, formatting supported list syntax required (any unordered or ordered list supported) this is a complete item [?] this is also a complete item (works with every character) this is an incomplete item tasks can be clicked in Preview to be checked off     First Header Second Header     Content from cell 1 Content from cell 2   Content in the first column Content in the second column    ==highlight==</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/new-page-that-did-not-exist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/new-page-that-did-not-exist/</guid>
+      <description>sdfghjk</description>
     </item>
     
     <item>
