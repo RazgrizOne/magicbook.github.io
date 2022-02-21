@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Welcome to Magic Book on Magic Book</title>
+    <title>Welcome on Magic Book</title>
     <link>//magicbook.wiki/</link>
-    <description>Recent content in Welcome to Magic Book on Magic Book</description>
+    <description>Recent content in Welcome on Magic Book</description>
     <image>
       <url>//magicbook.wiki/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>//magicbook.wiki/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
@@ -16,10 +16,9 @@
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>//magicbook.wiki/a-home/</guid>
-      <description>Magic Book
-These are the things I am currently trying to work on. I should try to stay somewhat focused. I watched an interesting video by Bobby Brocolli that went over how to make videos using google earth like another yotuber who uses it for sports videos.
--I should use the database features to create a page that stores all the current goals I have.
- Family Network Project  Note Taking  Chromebook_Linux Obsidian  Website  obsidian-export Hugo Getting html to load on hugo getting images and files to load on hugo cookies    Essays  Essay_Complexity</description>
+      <description>TABLE tasks AS &amp;quot;tasks&amp;quot; FROM #project Magic Book
+Fitness Everything under this is important, but fitness is a force multiplier for every other keystone. You should work on all of these, but if you don&amp;rsquo;t have your fitness in order, drop everything else and get that engine going before anything else.
+ Tools Methods Drills Events Entities Insights  Playgrounds  Projects Essays </description>
     </item>
     
     <item>
@@ -149,7 +148,8 @@ ideally I need to figure out how to add items to the PATH</description>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>//magicbook.wiki/latex/</guid>
-      <description>Supposedly this allows you to create templates for writing a book. Should take a look at it later.</description>
+      <description>Supposedly this allows you to create templates for writing a book. Should take a look at it later.
+It seems that this tool is very similar to markdown, but is good for writing math, and great for creating printed work. That is to say, it is good if you are making an exam or a book. It is a bit less good if you want to create something that can be displayed online.</description>
     </item>
     
     <item>
@@ -172,7 +172,10 @@ https://www.linuxfromscratch.org/index.html this looks like it will be very usef
       <guid>//magicbook.wiki/essays/</guid>
       <description>What Ideas do I have for Essays I could write?
 Essay_Complexity
-The nightmare of complexity</description>
+The nightmare of complexity
+Essay_Complexity
+article on gamification
+February 20 2022</description>
     </item>
     
     <item>
@@ -237,6 +240,18 @@ I want a very fast way to generate webpages without having to try too hard. If I
     </item>
     
     <item>
+      <title>Welcome to Magic Book</title>
+      <link>//magicbook.wiki/welcome_to_magic_book/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/welcome_to_magic_book/</guid>
+      <description>Hello! Come in! Come in!
+It is great to have you here at the gates of my personal journal. With pages that cannot be burned and words viewable from anywhere in the world.
+A &amp;lsquo;magic book&amp;rsquo; you might say.
+Now that might sound grandiose. &amp;ldquo;Magic!? This is technology. Don&amp;rsquo;t be silly.&amp;rdquo; I assure you that this would be indiscernible magic to the scribes of ancient china nearly 3000 years ago when printing books required hand carved text in wooden blocks.</description>
+    </item>
+    
+    <item>
       <title>What is the magic book?</title>
       <link>//magicbook.wiki/magic-book/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
@@ -267,6 +282,85 @@ To extract as much value from you as possible.</description>
     
     <item>
       <title></title>
+      <link>//magicbook.wiki/article-on-gamification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/article-on-gamification/</guid>
+      <description>Gamification The game makes the player, makes the game, makes the player. Humans are not well suited to dealing with the growing complexity that exists in society today. Historically speaking, the game we were in had the following traits.
+ Essentially infinite resources Resource limitation was set by ability to collect and store resources. Pollution was a local worry, but not a global one. Social circles were limited in size. the power of an individual to inflict damage on ecosystems was fairly limited by their technology The balance of manpower vs technology was not so lopsided, though still lopsided.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/artificial-intelligence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/artificial-intelligence/</guid>
+      <description>Artificial intelligence is a misnomer we use to characterize intelligence that humans created. I would argue that there is only intelligence. Even Earth itself shows some amount of intelligence, if it did not, you and I would not be here.
+So calling it artificial really only serves as a shorter version of &amp;lsquo;that intelligence that we made&amp;rsquo;.
+When I was little, I never imagined that I might one day understand on a basic level how the brain actually functions.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/blender/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/blender/</guid>
+      <description>Blender is a free 3d graphics software with many different uses. It is focused on being an artistic software rather than one used for precision.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/bookmarklets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/bookmarklets/</guid>
+      <description>bookmarklets are javascript code, other tricks, put into a bookmark.
+You can put everything that you can put in the browsers address bar inside of a bookmark. This can lead to all sorts of tricks being possible within a bookmark.
+So far I have 3 tricks that I use regularly now.
+ Copying preset text to a clipboard Using an alert to display a message to the user Using an input to generate a dynamic https:// link  I will probably use this to search specific things very quickly such as creating a bookmark that limits your search to a specific domain.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/bytes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/bytes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/cables.gl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/cables.gl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/coda.io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/coda.io/</guid>
+      <description>Coda.io is similar to Obsidian, with the notable difference that it&amp;hellip;
+ Costs money, and is more expensive than Notion Allows you to display your writing online in a visually pleasing way allows for inline database features, though it can only handle about 10k rows before crumpling, at least at this moment. The pace at which they were adding features I would not be surprised if they surpassed this by now.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/computer-game-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/computer-game-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>//magicbook.wiki/cookies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -279,14 +373,263 @@ Understanding and Working with JavaScript Cookies Bernard Mburu August 6, 2021 A
     
     <item>
       <title></title>
+      <link>//magicbook.wiki/covid-19-new-york-times-article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/covid-19-new-york-times-article/</guid>
+      <description>LIVECovid-19 Updates Coronavirus Map and Cases Track State Mask Mandates Analysis of U.S. Death Rate  ADVERTISEMENT
+Continue reading the main story
+A Timeline of the Coronavirus Pandemic The outbreak of the virus has sickened more than 80 million people. At least 1.7 million people have died. Here’s how the year unfolded.
+      A group of healthcare workers prepare at a testing site in Tampa, Fla.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/covid-19-pandemic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/covid-19-pandemic/</guid>
+      <description>#events
+Covid-19 New York Times Article
+Ever Given Evergrande</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/cs50-2020-web-lecture-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/cs50-2020-web-lecture-1/</guid>
+      <description>!DOCTYPE html is used for HTML5
+What is HTML?
+HTML tags opening and closing
+tables
+  input types radio password
+coolio  &amp;lt;link rel=&amp;#34;stylesheet&amp;#34; href=&amp;#34;styles.css&amp;#34;&amp;gt; div tags
+these are sections. Useful for containing items.
+padding (inside border, space from text)
+margin (space from other objects)
+font-family: Arial; for example
+, sans-sarif; (fallback for fonts)
+font-size: 20px; font-weight: bold;
+border: 3px solid black;
+td = table data table = table th = table header</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/cs50-2020-web-lecture-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/cs50-2020-web-lecture-2/</guid>
+      <description>What do I remember from this?
+This went over Github. It gives you the bare bones knowledge to use github from the command line, but does not really go over installing It I think..
+It also does not really go over the more complicated situations one might run into, but it can at least give on an overview.
+Speaks about github pages.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/cs50-2020-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/cs50-2020-web/</guid>
+      <description>CS50 2020 Web Lecture 1 X CS50 2020 Web Lecture 2 X CS50 2020 Web Lecture 3 CS50 2020 Web Lecture 4 CS50 2020 Web Lecture 5 CS50 2020 Web Lecture 6 CS50 2020 Web Lecture 7 CS50 2020 Web Lecture 8</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/cs50-2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/cs50-2020/</guid>
+      <description>CS50 2020 Lecture 1 X CS50 2020 Lecture 2 CS50 2020 Lecture 3 CS50 2020 Lecture 4 CS50 2020 Lecture 5 CS50 2020 Lecture 6 CS50 2020 Lecture 7 CS50 2020 Lecture 8</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/cs50/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/cs50/</guid>
+      <description>#project
+CS50 2020 CS50 2020 Web</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/dataview-plugin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/dataview-plugin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/drills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/drills/</guid>
+      <description>#project
+A drill is a program for infusing techniques and knowledge into ones brain.
+Programming CS50 Finance I should probably remove the youtubers and instead focus on specific subjects. The youtubers, though they can teach something, are more likely to lead you down a rabbit hole which is not the goal in drills. Finance playlist The Plain Bagel Patrick Boyle
+Art </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/entities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/entities/</guid>
+      <description>Youtubers</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/events/</guid>
+      <description>table title, event_date from #events sort event_date desc An event is anything that happened at a specific point in time. Through tracking events in history as accurately as possible, we may learn what truth is. Ideally an event should attempt to accurately encapsulate the event, the causes and affects, the players involved (businesses)
+hopefully by keeping track of these things I can begin to hone in on the most important drivers of our modern times.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/family-network-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/family-network-project/</guid>
+      <description>Website + Magic Mirror</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/february-20-2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/february-20-2022/</guid>
+      <description>Coming home from Abby&amp;rsquo;s. Yesterday was her birthday. Aaron and her seem like they are doing well. Abby&amp;rsquo;s Dad has cancer, her new bird died, but they got two to replace it.
+Amanda, Abby&amp;rsquo;s mom, played VR for the first time yesterday. Super Hot, Beat Sabre, Walkabout Mini-Golf, and the First Steps introduction games.
+Nellie had a good time. I am glad that she took my advice and got the mini golf game.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/finance-playlist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/finance-playlist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/fitness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/fitness/</guid>
+      <description>#deepdive
+This counts as a deep dive, but due to its importance, I have put it on the front page. The human body requires maintenance in order to function properly, but our body is not very good at driving us to take care of ourselves properly. It may have been good in the past, but industry has become very good at driving us towards activities that are no good for us.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/gimp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/gimp/</guid>
+      <description>While gimp may not have all the bells and whistles that Photoshop has, it runs fast, it is completely free, and you can edit photos in it.What else do you need.
+I have never seen a perfect photo editing software yet. They are all too complicated for what you want to do, too crashy, too slow, and common features seem too hard to access. Maybe one day a killer app will come out that is better than Photoshop, but I don&amp;rsquo;t know when that will be.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/google-earth-pro-presentations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/google-earth-pro-presentations/</guid>
+      <description>some markdown
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/high-level-programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/high-level-programming/</guid>
+      <description>When most people speak of low level and high level programming languages, they can be talking about two different, but related things. One of these is the trade off between speed of writing the code, and speed of the code when it is being run. The other relates to how we write the code.
+The lower the level of programming, the closer to machine code the language is. The higher the level, the closer to human thought the language is.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/inkscape/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/inkscape/</guid>
+      <description>Inkscape may very well be the most intuitive vector art software I have ever used. Free too.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/insights/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/insights/</guid>
+      <description>An insight is a tiny but powerful bit of knowledge. Some of this is self evident such as mathematical proofs. Some of it you must take on some amount of faith and should be backed up with studies.
+How much gas does an idling car use Electricity usage of different appliances map of linux distributions how the sun goes around earth Odds of dice rolls brain measures difference in color - image all the material that has been mined in the world periodic table based on amount of material in existence</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/interpreted-language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/interpreted-language/</guid>
+      <description>An interpreted language does not require that the language be compiled before it is ran. There is some loss of speed due to this, but since you don&amp;rsquo;t have to compile, you can experiment very quickly.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/list-of-tasks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/list-of-tasks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>//magicbook.wiki/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//magicbook.wiki/markdown/</guid>
       <description>https://commonmark.org/help/
-Heading
- markdown list 1  nested list 1 nested list 2   markdown list 2  This is what highlighting looks like.
- Want to ruin the surprise? Well, you asked for it!  function fancyAlert(arg) { if(arg) { $.facebox({div:&amp;#39;#foo&amp;#39;}) } } testing  #tags, links, formatting supported list syntax required (any unordered or ordered list supported) this is a complete item [?] this is also a complete item (works with every character) this is an incomplete item tasks can be clicked in Preview to be checked off     First Header Second Header     Content from cell 1 Content from cell 2   Content in the first column Content in the second column    ==highlight==</description>
+Here are some things to try
+# Heading ## Heading 2 ### Heading 3 Heading Heading 2 Heading 3 1. numbered list 2. second number by pressing enter 1. sub item by pressing tab - bulleted list - second bullet - sub bullet  numbered list second number by pressing enter  nested item by pressing tab     bulleted list second bullet  nested bullet    This is what highlighting looks like.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/methods/</guid>
+      <description>A method is a specific recipe or formula for a specific outcome. It may use a specific tool, but it will use that tool in a specific way.
+The Adkins Method Google Earth Pro Presentations bookmarklets</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/neural-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/neural-network/</guid>
+      <description>a tool best known for its applications in Artificial Intelligence</description>
     </item>
     
     <item>
@@ -296,6 +639,75 @@ Heading
       
       <guid>//magicbook.wiki/new-page-that-did-not-exist/</guid>
       <description>sdfghjk</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/note-taking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/note-taking/</guid>
+      <description>Chromebook_Linux Obsidian</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/notion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/notion/</guid>
+      <description>In my opinion, Notion is a weaker Coda.io. I think the biggest benefit of Notion is that it is less expensive than Coda.io.
+You still get most of the features of Coda, but it feels jankier overall and far less powerful.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/object-oriented-programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/object-oriented-programming/</guid>
+      <description>I have read a million things talking about object oriented programming, and I am not sure if the general notion stacks up honestly. I find that often the type of program you are writing informs the style of writing you should create.
+The idea behind object oriented programming is that you try to package up all your code as &amp;lsquo;objects&amp;rsquo;.
+Usually this ends with someone describing a car, and how a car has an engine, and that engine runs on gas, which is provided by a tank.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/obsidian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/obsidian/</guid>
+      <description>The software you are likely using to read or write this.
+The core benefit that Obsidian has as far as I am concerned is the ability to create links to new documents by typing [[link name here]]. If you want to do this in anything else you need to create the document, create some content for the document and then navigate to the document you wish to link from and insert the hard link to that document.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/patrick-boyle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/patrick-boyle/</guid>
+      <description>Videos </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/playgrounds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/playgrounds/</guid>
+      <description>Tools, Methods, Drills, Events, Insights.
+Playgrounds can contain all of these together organized in a way that helps you hone in on a broader concept in a way that reading them all separately would not. Think of this as the documentary of the bunch.
+Fitness Raising Children Religion History of Computers Artificial Intelligence Cybersecurity </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/projects/</guid>
+      <description>Note Taking Website  Computer Game Project </description>
     </item>
     
     <item>
@@ -310,11 +722,156 @@ Patience.</description>
     
     <item>
       <title></title>
+      <link>//magicbook.wiki/python-pandas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/python-pandas/</guid>
+      <description>A library for processing (mostly tabular) data. Allows you to import, mess with, and export csv&amp;rsquo;s, excel sheets etc.
+Very similar to R language</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/python/</guid>
+      <description>Python is an easy to use language that is relatively slow, but is often used in cases where speed does not matter.
+From the python website itself with links to these concepts provided by me.
+Python is an interpreted, object-oriented programming, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/r-language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/r-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/raid-2-boss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/raid-2-boss/</guid>
+      <description>#raid_boss #customer
+ahsdjhasjdash ashdlakshd asdklhasdkha;d bold
+ x = [1,2,3,4] print(x) for each item in x: print(item) &amp;lt;iframe width=&amp;#34;560&amp;#34; height=&amp;#34;315&amp;#34; src=&amp;#34;https://www.youtube.com/embed/yIdigLW07xY&amp;#34; title=&amp;#34;YouTube video player&amp;#34; frameborder=&amp;#34;0&amp;#34; allow=&amp;#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&amp;#34; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt; </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/raising-children/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/raising-children/</guid>
+      <description>Dude I have no fucking idea. I am sure I can collect some information, but I don&amp;rsquo;t think there is an easy answer to this one. My gut tells me that you need to challenge them in ways that they don&amp;rsquo;t even realize they are being challenged. Give them entertainment that challenges them, have them around people so they are challenged to interact socially. Make sure you feed them enough. Don&amp;rsquo;t do drugs while they are being birthed.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/religion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/religion/</guid>
+      <description>Its bullshit, but to understand why takes an understanding of human nature, logic, and statistics.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/software-compiling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/software-compiling/</guid>
+      <description>Compiling is when a language is translated into machine code, or some other code that can be run on a device. Often the language you are writing in is designed to be easy to use for humans, but cannot itself be used by a computer. Compiling translates the code so it can be run.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/some-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/some-page/</guid>
+      <description>This page was created for the purpose of showing the linking functionality within obsidian.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/the-adkins-method/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/the-adkins-method/</guid>
+      <description>A note taking style created by myself. Will it matter? We shall see!
+My method consists of the following objects
+Tools Tools are techniques, software, physical objects and more that can be used to create some desired outcome. If you find yourself coming back to it over and over again for many different applications, it is likely a good candidate for a tool.
+Methods Methods are a tool or combination of tools used in a specific way to create a specific outcome.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/the-plain-bagel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/the-plain-bagel/</guid>
+      <description>Videos [[]]</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>//magicbook.wiki/this-link-creates-a-new-page-just-by-typing-it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//magicbook.wiki/this-link-creates-a-new-page-just-by-typing-it/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/this_weapon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/this_weapon/</guid>
+      <description>#weapon
+This weapon is good for killing raid 2 boss
+TABLE damage AS &amp;quot;damage&amp;quot; FROM #weapon </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/tools/</guid>
+      <description>#project
+A tool is a software, object, institution or any other &amp;lsquo;thing&amp;rsquo; that can be used to perform a task. Each one will tend to have a specific goal in mind when using it, but the use cases tend to be pretty broad.
+Writing Obsidian Latex Coda.io Notion
+Programming Languages Python
+Game Engines Unity Unreal Engine
+Data Processing Python Pandas
+Learning YouTube.com
+Artistic 2d Raster Gimp Photoshop
+2d Vector InkScape</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/touch-designer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/touch-designer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//magicbook.wiki/youtubers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/youtubers/</guid>
+      <description>#entity_collection #collection
+Finance Patrick Boyle The Plain Bagel</description>
     </item>
     
     <item>
