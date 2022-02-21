@@ -68,5 +68,16 @@ I want a very fast way to generate webpages without having to try too hard. If I
 3m ago</description>
     </item>
     
+    <item>
+      <title>Welcome</title>
+      <link>//magicbook.wiki/groundwork/welcome/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//magicbook.wiki/groundwork/welcome/</guid>
+      <description>This site is automatically generated as I type out my notes. There are a couple of steps to reach this goal, but they are not many, and the lessons learned while doing this will help you dip your toe into a computer science tool or two.
+Open Chromium Let&amp;rsquo;s start simple.
+The first thing you are going to do is open chromium in the bottom left corner of the laptop. This step is so easy you may have already done so.</description>
+    </item>
+    
   </channel>
 </rss>
