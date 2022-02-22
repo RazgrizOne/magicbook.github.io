@@ -71,8 +71,11 @@ The future promised more&amp;hellip; More knowledge, more tools, more freedom of
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>//magicbook.wiki/groundwork/chromebook_linux/</guid>
-      <description>GalliumOS Unscrew safety screw, load new firmware, install gallium Have to find the guide again and go through it from square one. ^620fd7
-Above I have pasted a image, Below I have pasted a iFrame of a youtube video. The automatically move over to the website. THis link creates a new page just by typing it and if I change the name later it will change everywhere it is referenced.</description>
+      <description>GalliumOS
+Unscrew safety screw, load new firmware, install gallium
+Have to find the guide again and go through it from square one. ^620fd7
+Above I have pasted a image,
+Below I have pasted a iFrame of a youtube video. The automatically move over to the website. THis link creates a new page just by typing it and if I change the name later it will change everywhere it is referenced.</description>
     </item>
     
     <item>
@@ -109,7 +112,8 @@ Apr 2, 2021
 Render raw html in HUGO markdown files By default Hugo will not render embedded html in markdown files. To enable, add the following lines to config.toml:
 [markup.goldmark.renderer] unsafe = true Entering the raw html:
 &amp;lt;h1&amp;gt;hello world!&amp;lt;/h1&amp;gt; Renders:
-hello world! Source: https://jasonmurray.org/posts/2021/hugohtml/</description>
+hello world! Source:
+https://jasonmurray.org/posts/2021/hugohtml/</description>
     </item>
     
     <item>
@@ -118,8 +122,17 @@ hello world! Source: https://jasonmurray.org/posts/2021/hugohtml/</description>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>//magicbook.wiki/history-of-computers/</guid>
-      <description>Operating systems Unix Linux BSD MacOS WIndows
-Hardware Rasberry pi Rasberry pi Pico Arduino Chromebooks
+      <description>Operating systems
+Unix
+Linux
+BSD
+MacOS
+WIndows
+Hardware
+Rasberry pi
+Rasberry pi Pico
+Arduino
+Chromebooks
 Some projects for the raspberry pi Pico. Wii remote like mouse. rubber ducky Pico</description>
     </item>
     
@@ -139,7 +152,8 @@ ideally I need to figure out how to add items to the PATH</description>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>//magicbook.wiki/people-in-tech/</guid>
-      <description>Benno Rice - Experienced Engineer, Gives talks. Opinions about OS Lennart Poettering - creator of systemd, works at redhat</description>
+      <description>Benno Rice - Experienced Engineer, Gives talks. Opinions about OS
+Lennart Poettering - creator of systemd, works at redhat</description>
     </item>
     
     <item>
@@ -161,7 +175,8 @@ It seems that this tool is very similar to markdown, but is good for writing mat
       <description>Cubic for Linux,
 for creating linux isos
 could boot up your own computer from a flash drive
-https://www.linuxfromscratch.org/index.html this looks like it will be very useful. Page 57 so far, but I will have to go back and read a lot for sure and take notes. Perhaps I should download it on to my tablet and draw on it.</description>
+https://www.linuxfromscratch.org/index.html
+this looks like it will be very useful. Page 57 so far, but I will have to go back and read a lot for sure and take notes. Perhaps I should download it on to my tablet and draw on it.</description>
     </item>
     
     <item>
@@ -270,7 +285,8 @@ The first thing you are going to do is open chromium in the bottom left corner o
       <description>Hello! Come in! Come in!
 It is great to have you here at the gates of my personal journal. With pages that cannot be burned and words viewable from anywhere in the world.
 A &amp;lsquo;magic book&amp;rsquo; you might say.
-Now that might sound grandiose. &amp;ldquo;Magic!? This is technology. Don&amp;rsquo;t be silly.&amp;rdquo; I assure you that this would be indiscernible magic to the scribes of ancient china nearly 3000 years ago when printing books required hand carved text in wooden blocks.</description>
+Now that might sound grandiose. &amp;ldquo;Magic!? This is technology. Don&amp;rsquo;t be silly.&amp;rdquo;
+I assure you that this would be indiscernible magic to the scribes of ancient china nearly 3000 years ago when printing books required hand carved text in wooden blocks.</description>
     </item>
     
     <item>
@@ -389,7 +405,8 @@ So far I have 3 tricks that I use regularly now.
       <guid>//magicbook.wiki/cookies/</guid>
       <description>https://html.com/resources/cookies-ultimate-guide/
 I will likely need to use cookies to &amp;lsquo;save the players game
-This goes over the more technical aspects. https://www.section.io/engineering-education/understanding-and-working-with-javascript-cookies/#various-types-of-cookies
+This goes over the more technical aspects.
+https://www.section.io/engineering-education/understanding-and-working-with-javascript-cookies/#various-types-of-cookies
 Understanding and Working with JavaScript Cookies Bernard Mburu August 6, 2021 A cookie is a short text file that stores some data on a computer (about 4KB). They usually keep track of information such as preferencess for a website, prompting the user to improve the web page the next time they visit.</description>
     </item>
     
@@ -413,7 +430,8 @@ A Timeline of the Coronavirus Pandemic The outbreak of the virus has sickened mo
       <guid>//magicbook.wiki/covid-19-pandemic/</guid>
       <description>#events
 Covid-19 New York Times Article
-Ever Given Evergrande</description>
+Ever Given
+Evergrande</description>
     </item>
     
     <item>
@@ -424,18 +442,23 @@ Ever Given Evergrande</description>
       <guid>//magicbook.wiki/cs50-2020-web-lecture-1/</guid>
       <description>!DOCTYPE html is used for HTML5
 What is HTML?
-HTML tags opening and closing
+HTML tags
+opening and closing
 tables
-  input types radio password
+  input types
+radio
+password
 coolio  &amp;lt;link rel=&amp;#34;stylesheet&amp;#34; href=&amp;#34;styles.css&amp;#34;&amp;gt; div tags
 these are sections. Useful for containing items.
 padding (inside border, space from text)
 margin (space from other objects)
 font-family: Arial; for example
 , sans-sarif; (fallback for fonts)
-font-size: 20px; font-weight: bold;
+font-size: 20px;
+font-weight: bold;
 border: 3px solid black;
-td = table data table = table th = table header</description>
+td = table data
+table = table</description>
     </item>
     
     <item>
@@ -456,7 +479,14 @@ Speaks about github pages.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//magicbook.wiki/cs50-2020-web/</guid>
-      <description>CS50 2020 Web Lecture 1 X CS50 2020 Web Lecture 2 X CS50 2020 Web Lecture 3 CS50 2020 Web Lecture 4 CS50 2020 Web Lecture 5 CS50 2020 Web Lecture 6 CS50 2020 Web Lecture 7 CS50 2020 Web Lecture 8</description>
+      <description>CS50 2020 Web Lecture 1 X
+CS50 2020 Web Lecture 2 X
+CS50 2020 Web Lecture 3
+CS50 2020 Web Lecture 4
+CS50 2020 Web Lecture 5
+CS50 2020 Web Lecture 6
+CS50 2020 Web Lecture 7
+CS50 2020 Web Lecture 8</description>
     </item>
     
     <item>
@@ -465,7 +495,14 @@ Speaks about github pages.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//magicbook.wiki/cs50-2020/</guid>
-      <description>CS50 2020 Lecture 1 X CS50 2020 Lecture 2 CS50 2020 Lecture 3 CS50 2020 Lecture 4 CS50 2020 Lecture 5 CS50 2020 Lecture 6 CS50 2020 Lecture 7 CS50 2020 Lecture 8</description>
+      <description>CS50 2020 Lecture 1 X
+CS50 2020 Lecture 2
+CS50 2020 Lecture 3
+CS50 2020 Lecture 4
+CS50 2020 Lecture 5
+CS50 2020 Lecture 6
+CS50 2020 Lecture 7
+CS50 2020 Lecture 8</description>
     </item>
     
     <item>
@@ -475,7 +512,8 @@ Speaks about github pages.</description>
       
       <guid>//magicbook.wiki/cs50/</guid>
       <description>#project
-CS50 2020 CS50 2020 Web</description>
+CS50 2020
+CS50 2020 Web</description>
     </item>
     
     <item>
@@ -495,7 +533,10 @@ CS50 2020 CS50 2020 Web</description>
       <guid>//magicbook.wiki/drills/</guid>
       <description>#project
 A drill is a program for infusing techniques and knowledge into ones brain.
-Programming CS50 Finance I should probably remove the youtubers and instead focus on specific subjects. The youtubers, though they can teach something, are more likely to lead you down a rabbit hole which is not the goal in drills. Finance playlist The Plain Bagel Patrick Boyle
+Programming CS50 Finance I should probably remove the youtubers and instead focus on specific subjects. The youtubers, though they can teach something, are more likely to lead you down a rabbit hole which is not the goal in drills.
+Finance playlist
+The Plain Bagel
+Patrick Boyle
 Art </description>
     </item>
     
@@ -603,7 +644,12 @@ The lower the level of programming, the closer to machine code the language is. 
       
       <guid>//magicbook.wiki/insights/</guid>
       <description>An insight is a tiny but powerful bit of knowledge. Some of this is self evident such as mathematical proofs. Some of it you must take on some amount of faith and should be backed up with studies.
-How much gas does an idling car use Electricity usage of different appliances map of linux distributions how the sun goes around earth Odds of dice rolls brain measures difference in color - image all the material that has been mined in the world periodic table based on amount of material in existence</description>
+How much gas does an idling car use
+Electricity usage of different appliances
+map of linux distributions
+how the sun goes around earth
+Odds of dice rolls
+brain measures difference in color - image</description>
     </item>
     
     <item>
@@ -642,7 +688,9 @@ Here are some things to try
       
       <guid>//magicbook.wiki/methods/</guid>
       <description>A method is a specific recipe or formula for a specific outcome. It may use a specific tool, but it will use that tool in a specific way.
-The Adkins Method Google Earth Pro Presentations bookmarklets</description>
+The Adkins Method
+Google Earth Pro Presentations
+bookmarklets</description>
     </item>
     
     <item>
@@ -669,7 +717,8 @@ The Adkins Method Google Earth Pro Presentations bookmarklets</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//magicbook.wiki/note-taking/</guid>
-      <description>Chromebook_Linux Obsidian</description>
+      <description>Chromebook_Linux
+Obsidian</description>
     </item>
     
     <item>
@@ -778,7 +827,8 @@ Python is an interpreted, object-oriented programming, high-level programming la
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//magicbook.wiki/raid-2-boss/</guid>
-      <description>#raid_boss #customer
+      <description>#raid_boss
+#customer
 ahsdjhasjdash ashdlakshd asdklhasdkha;d bold
  x = [1,2,3,4] print(x) for each item in x: print(item) &amp;lt;iframe width=&amp;#34;560&amp;#34; height=&amp;#34;315&amp;#34; src=&amp;#34;https://www.youtube.com/embed/yIdigLW07xY&amp;#34; title=&amp;#34;YouTube video player&amp;#34; frameborder=&amp;#34;0&amp;#34; allow=&amp;#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&amp;#34; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt; </description>
     </item>
@@ -827,8 +877,10 @@ ahsdjhasjdash ashdlakshd asdklhasdkha;d bold
       <guid>//magicbook.wiki/the-adkins-method/</guid>
       <description>A note taking style created by myself. Will it matter? We shall see!
 My method consists of the following objects
-Tools Tools are techniques, software, physical objects and more that can be used to create some desired outcome. If you find yourself coming back to it over and over again for many different applications, it is likely a good candidate for a tool.
-Methods Methods are a tool or combination of tools used in a specific way to create a specific outcome.</description>
+Tools
+Tools are techniques, software, physical objects and more that can be used to create some desired outcome. If you find yourself coming back to it over and over again for many different applications, it is likely a good candidate for a tool.
+Methods
+Methods are a tool or combination of tools used in a specific way to create a specific outcome.</description>
     </item>
     
     <item>
@@ -868,12 +920,17 @@ TABLE damage AS &amp;quot;damage&amp;quot; FROM #weapon </description>
       <guid>//magicbook.wiki/tools/</guid>
       <description>#project
 A tool is a software, object, institution or any other &amp;lsquo;thing&amp;rsquo; that can be used to perform a task. Each one will tend to have a specific goal in mind when using it, but the use cases tend to be pretty broad.
-Writing Obsidian Latex Coda.io Notion
+Writing Obsidian
+Latex
+Coda.io
+Notion
 Programming Languages Python
-Game Engines Unity Unreal Engine
+Game Engines Unity
+Unreal Engine
 Data Processing Python Pandas
 Learning YouTube.com
-Artistic 2d Raster Gimp Photoshop
+Artistic 2d Raster Gimp
+Photoshop
 2d Vector InkScape</description>
     </item>
     
@@ -893,7 +950,8 @@ Artistic 2d Raster Gimp Photoshop
       
       <guid>//magicbook.wiki/youtubers/</guid>
       <description>#entity_collection #collection
-Finance Patrick Boyle The Plain Bagel</description>
+Finance Patrick Boyle
+The Plain Bagel</description>
     </item>
     
     <item>
